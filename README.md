@@ -31,7 +31,7 @@
 ```js
 const leaf = {
   name       : "leaf",
-  age        : 17, // born 6 dec 2008 — auto-updated yearly
+  age        : 17, 
   pronouns   : "he / him",
   class      : "🌱 Grass Type — Coder Hybrid",
   based_in   : "quiet room, glowing screen",
