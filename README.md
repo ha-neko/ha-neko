@@ -127,10 +127,6 @@ const leaf = {
 
 <br>
 
-![](flame.gif)
-
-<br>
-
 ![](https://komarev.com/ghpvc/?username=ha-neko&color=9FE1CB&style=flat-square&label=visitors)
 
 </div>
