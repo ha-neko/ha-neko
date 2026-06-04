@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%F0%9F%8C%BF;he%2Fhim+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%5E_%5E;he%2Fhim+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%3C3" alt="Typing SVG" />
 
 <br>
 
@@ -70,7 +70,7 @@ const leaf = {
 
 ## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">interests.log</span>
 
-<pre>
+<pre style="border-left: 4px solid #5DCAA5; padding: 0.5em 1em; background: rgba(93,202,165,0.05); border-radius: 6px;">
 <span style="color:#9FE1CB">[BOOT] initializing leaf.exe ...</span>
 
   <span style="color:#5DCAA5">💚  leafeon supremacy ............ ACTIVE  ✓</span>
@@ -91,25 +91,20 @@ const leaf = {
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-neko&bg_color=00000000&color=5DCAA5&line=5DCAA5&point=ed93b1&area=true&area_color=9FE1CB&hide_border=true&radius=12)](https://github.com/ha-neko)
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ha-neko&show_icons=true&bg_color=00000000&text_color=5DCAA5&icon_color=ed93b1&title_color=9FE1CB&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neko&layout=compact&bg_color=00000000&text_color=5DCAA5&title_color=9FE1CB&hide_border=true&card_width=300" height="160" />
-
 </div>
 
 ---
 
 ## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">reach_me.sh</span>
 
-<pre>
-  ╭──────────────────────────────────────────╮
-  │                                          │
-  │  <span style="color:#85b7eb">[WEB]</span>   <span style="color:#5DCAA5">ha-neko.github.io/aleaf</span>         │
-  │  <span style="color:#5DCAA5">[MAIL]</span>  <span style="color:#9FE1CB">dms: open — feel free to say hi!</span>│
-  │  <span style="color:#ed93b1">[GAME]</span>  <span style="color:#9FE1CB">game dev chat / leafeon talk</span>    │
-  │                                          │
-  ╰──────────────────────────────────────────╯
+<pre style="border-left: 4px solid #ed93b1; padding: 0.5em 1em; background: rgba(237,147,177,0.05); border-radius: 6px;">
+  <span style="color:#9FE1CB">╭──────────────────────────────────────────╮</span>
+  <span style="color:#9FE1CB">│</span>                                          <span style="color:#9FE1CB">│</span>
+  <span style="color:#9FE1CB">│</span>  <span style="color:#85b7eb">[WEB]</span>   <span style="color:#5DCAA5">ha-neko.github.io/aleaf</span>         <span style="color:#9FE1CB">│</span>
+  <span style="color:#9FE1CB">│</span>  <span style="color:#5DCAA5">[MAIL]</span>  <span style="color:#9FE1CB">dms: open — feel free to say hi!</span><span style="color:#9FE1CB">│</span>
+  <span style="color:#9FE1CB">│</span>  <span style="color:#ed93b1">[GAME]</span>  <span style="color:#9FE1CB">game dev chat / leafeon talk</span>    <span style="color:#9FE1CB">│</span>
+  <span style="color:#9FE1CB">│</span>                                          <span style="color:#9FE1CB">│</span>
+  <span style="color:#9FE1CB">╰──────────────────────────────────────────╯</span>
 </pre>
 
 <div align="center">
