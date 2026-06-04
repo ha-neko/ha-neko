@@ -87,9 +87,10 @@ const leaf = {
 
 ## `📊 ~/leaf/stats.json`
 
+<!-- 📊 ~/leaf/stats.json -->
 <div align="center">
 
-[![Leaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ha-neko&show_icons=true&theme=transparent&title_color=5DCAA5&icon_color=378add&text_color=6a8fa8&border_color=9FE1CB&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-tw.vercel.app/?user=ha-neko&theme=transparent&hide_border=false&border_radius=12&ring=5DCAA5&fire=ed93b1&currStreakLabel=378add&sideLabels=378add&currStreakNum=1D9E75&sideNums=1D9E75&dates=6a8fa8&border=9FE1CB)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
