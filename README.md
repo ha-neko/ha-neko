@@ -2,14 +2,14 @@
 <!--                     leaf's github — welcome to my garden              -->
 <!-- ──────────────────────────────────────────────────────────────────── -->
 
-<div align="center">
-
 ```
   ∧＿∧
 （｡•ᴗ•｡）   hi there! i'm leaf ~
  ／  つ     welcome to my little corner of github
 （_（_）
 ```
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%F0%9F%8C%BF;he%2Fhim+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
@@ -73,12 +73,12 @@ const leaf = {
 ```
 [BOOT] initializing leaf.exe ...
 
-  [GREEN]  leafeon supremacy ........... ACTIVE  ✓
-  [BLUE]   late night coding ........... ACTIVE  ✓
-  [PINK]   manga + quiet afternoons ..... ACTIVE  ✓
-  [GREEN]  pixel art + game design ...... ACTIVE  ✓
-  [BLUE]   black coffee > energy drinks . ACTIVE  ✓
-  [PINK]   sour drinks = serotonin ....... ACTIVE  ✓
+  💚  leafeon supremacy ............ ACTIVE  ✓
+  💙  late night coding ............ ACTIVE  ✓
+  🩷  manga + quiet afternoons ...... ACTIVE  ✓
+  💚  pixel art + game design ....... ACTIVE  ✓
+  💙  black coffee > energy drinks .. ACTIVE  ✓
+  🩷  sour drinks = serotonin ........ ACTIVE  ✓
 
 [STATUS] all systems nominal
 ```
@@ -124,15 +124,13 @@ const leaf = {
 
 ---
 
-<div align="center">
-
 ```
   ∧＿∧   ´ • ω • `
  ( 🍃 )    thanks for visiting!
   ╰─╯      come back anytime ~
 ```
 
-<br>
+<div align="center">
 
 *— built with soft energy and too much coffee —*
 
