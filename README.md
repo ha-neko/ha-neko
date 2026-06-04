@@ -90,10 +90,9 @@ const leaf = {
 <!-- 📊 ~/leaf/stats.json -->
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-tw.vercel.app/?user=ha-neko&theme=transparent&hide_border=false&border_radius=12&ring=5DCAA5&fire=ed93b1&currStreakLabel=378add&sideLabels=378add&currStreakNum=1D9E75&sideNums=1D9E75&dates=6a8fa8&border=9FE1CB)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Leaf's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ha-neko&theme=dracula&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
 
 ## `🍃 ~/leaf/reach_me.sh`
