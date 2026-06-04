@@ -2,6 +2,8 @@
 <!-- ║            🌿  leaf's github — welcome to my garden          ║ -->
 <!-- ╚════════════════════════════════════════════════════════════════╝ -->
 
+<div align="center">
+
 ```
   ∧＿∧
 （｡•ᴗ•｡）   hi there! i'm leaf ~
@@ -9,18 +11,20 @@
 （_）（_）
 ```
 
-<div align="center">
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%F0%9F%8C%BF;he%2Fhim+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%E2%9C%A8" alt="Typing SVG" />
+<!-- ══════════════  name badge  ══════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7EC8A4&center=true&vCenter=true&width=480&lines=hi%2C+i'm+leaf+%F0%9F%8C%BF;17+%7C+he%2Fhim+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
 <br><br>
 
-<!-- AGE-BADGE-START -->
-![](https://img.shields.io/badge/age-17-85b7eb?style=flat-square&labelColor=d0e8f5&color=85b7eb)
-<!-- AGE-BADGE-END -->
-![](https://img.shields.io/badge/pronouns-he%2Fhim-5DCAA5?style=flat-square&labelColor=d4f0e5&color=5DCAA5)
-![](https://img.shields.io/badge/type-🌱_grass_/_coder-ed93b1?style=flat-square&labelColor=fbeaf2&color=ed93b1)
-![](https://img.shields.io/badge/status-building_something_🌙-5DCAA5?style=flat-square&labelColor=f0faf6&color=5DCAA5)
+<!-- ══════════════  badges  ══════════════ -->
+
+![](https://img.shields.io/badge/age-17-a8d8b9?style=flat-square&labelColor=d4eedd&color=7ec8a4)
+![](https://img.shields.io/badge/pronouns-he%2Fhim-a8c8e8?style=flat-square&labelColor=d0e4f7&color=85b7eb)
+![](https://img.shields.io/badge/type-🌱_grass_/_coder-f4c6d8?style=flat-square&labelColor=fce8f0&color=e893b1)
+![](https://img.shields.io/badge/status-building_something_🌙-d4eedd?style=flat-square&labelColor=eaf6f0&color=7ec8a4)
 
 </div>
 
@@ -31,7 +35,7 @@
 ```js
 const leaf = {
   name       : "leaf",
-  age        : 17, 
+  age        : 17,
   pronouns   : "he / him",
   class      : "🌱 Grass Type — Coder Hybrid",
   based_in   : "quiet room, glowing screen",
@@ -56,13 +60,14 @@ const leaf = {
 
 <div align="center">
 
+<!-- stack icons via shields -->
+
+![HTML](https://img.shields.io/badge/HTML5-fce8f0?style=for-the-badge&logo=html5&logoColor=d4537e)
+![CSS](https://img.shields.io/badge/CSS3-d0e4f7?style=for-the-badge&logo=css3&logoColor=378add)
+![JavaScript](https://img.shields.io/badge/JavaScript-fdfde8?style=for-the-badge&logo=javascript&logoColor=b89a00)
 ![Python](https://img.shields.io/badge/Python-eaf3de?style=for-the-badge&logo=python&logoColor=3b6d11)
-![Laravel](https://img.shields.io/badge/Laravel-fbeaf2?style=for-the-badge&logo=laravel&logoColor=d4537e)
-![Docker](https://img.shields.io/badge/Docker-d0e8f5?style=for-the-badge&logo=docker&logoColor=378add)
-![Linux](https://img.shields.io/badge/Linux-d0e8f5?style=for-the-badge&logo=linux&logoColor=185FA5)
-![SSH](https://img.shields.io/badge/SSH-d4f0e5?style=for-the-badge&logo=openssh&logoColor=0F6E56)
-![Git](https://img.shields.io/badge/Git-fbeaf2?style=for-the-badge&logo=git&logoColor=d4537e)
-![VS Code](https://img.shields.io/badge/VSCode-d0e8f5?style=for-the-badge&logo=visualstudiocode&logoColor=378add)
+![Git](https://img.shields.io/badge/Git-fce8f0?style=for-the-badge&logo=git&logoColor=d4537e)
+![VS Code](https://img.shields.io/badge/VSCode-d0e4f7?style=for-the-badge&logo=visualstudiocode&logoColor=378add)
 
 </div>
 
@@ -87,17 +92,18 @@ const leaf = {
 
 ## `📊 ~/leaf/stats.json`
 
-<!-- 📊 ~/leaf/stats.json -->
 <div align="center">
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=ha-neko&theme=transparent&hide_border=false&border_radius=12&ring=5DCAA5&fire=ed93b1&currStreakLabel=378add&sideLabels=378add&currStreakNum=1D9E75&sideNums=1D9E75&dates=6a8fa8&border=9FE1CB&v=1" alt="GitHub Streak" />
-</a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ha-neko&show_icons=true&theme=default&bg_color=f0faf4&title_color=3b8f6e&icon_color=85b7eb&text_color=4a7c60&border_color=a8d8b9&border_radius=12" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neko&layout=compact&theme=default&bg_color=f0f5fc&title_color=2d6fa8&text_color=3a5f85&border_color=9ec5e8&border_radius=12" />
 
 </div>
+
 ---
 
 ## `🍃 ~/leaf/reach_me.sh`
+
+<div align="center">
 
 ```
   ╭──────────────────────────────────────────╮
@@ -110,13 +116,13 @@ const leaf = {
   ╰──────────────────────────────────────────╯
 ```
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌿_portfolio-visit_site-9FE1CB?style=for-the-badge&labelColor=d4f0e5)](https://ha-neko.github.io/aleaf)
+[![Portfolio](https://img.shields.io/badge/🌿_portfolio-visit_site-a8d8b9?style=for-the-badge&labelColor=d4eedd)](https://ha-neko.github.io/aleaf)
 
 </div>
 
 ---
+
+<div align="center">
 
 ```
   ∧＿∧  ´ • ω • `
@@ -124,11 +130,9 @@ const leaf = {
   ╰─╯      come back anytime ~
 ```
 
-<div align="center">
-
 *— built with soft energy and too much coffee —*
 
-![](https://komarev.com/ghpvc/?username=ha-neko&color=9FE1CB&style=flat-square&label=visitors)
+![](https://komarev.com/ghpvc/?username=ha-neko&color=a8d8b9&style=flat-square&label=visitors)
 
 </div>
 
