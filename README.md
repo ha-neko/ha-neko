@@ -2,16 +2,16 @@
 <!--                     leaf's github — welcome to my garden              -->
 <!-- ──────────────────────────────────────────────────────────────────── -->
 
-<pre>
+```
   ∧＿∧
 （｡•ᴗ•｡）   hi there! i'm leaf ~
  ／  つ     welcome to my little corner of github
 （_（_）
-</pre>
+```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%5E_%5E;he%2Fhim+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%3C3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%F0%9F%8C%BF;he%2Fhim+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
 <br>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">about.js</span>
+## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">about.js</span>
 
 ```js
 const leaf = {
@@ -52,7 +52,7 @@ const leaf = {
 
 ---
 
-## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">stack.sh</span>
+## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">stack.sh</span>
 
 <div align="center">
 
@@ -68,25 +68,24 @@ const leaf = {
 
 ---
 
-## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">interests.log</span>
+## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">interests.log</span>
 
-<pre style="border-left: 4px solid #5DCAA5; padding: 0.5em 1em; background: rgba(93,202,165,0.05); border-radius: 6px;">
-<span style="color:#85b7eb">╔══════════════════════════════════════════╗</span>
-<span style="color:#85b7eb">║</span>  <span style="color:#9FE1CB">[BOOT] initializing leaf.exe ...</span>        <span style="color:#85b7eb">║</span>
-<span style="color:#85b7eb">╠══════════════════════════════════════════╣</span>
-<span style="color:#5DCAA5">║</span>  <span style="color:#5DCAA5">💚  leafeon supremacy ............ ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
-<span style="color:#5DCAA5">║</span>  <span style="color:#85b7eb">💙  late night coding ............ ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
-<span style="color:#5DCAA5">║</span>  <span style="color:#ed93b1">🩷  manga + quiet afternoons ...... ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
-<span style="color:#5DCAA5">║</span>  <span style="color:#5DCAA5">💚  pixel art + game design ....... ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
-<span style="color:#5DCAA5">║</span>  <span style="color:#85b7eb">💙  black coffee > energy drinks .. ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
-<span style="color:#5DCAA5">║</span>  <span style="color:#ed93b1">🩷  sour drinks = serotonin ........ ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
-<span style="color:#9FE1CB">╚══════════════════════════════════════════╝</span>
-<span style="color:#9FE1CB">[STATUS] all systems nominal</span>
-</pre>
+```
+[BOOT] initializing leaf.exe ...
+
+  💚  leafeon supremacy ............ ACTIVE  ✓
+  💙  late night coding ............ ACTIVE  ✓
+  🩷  manga + quiet afternoons ...... ACTIVE  ✓
+  💚  pixel art + game design ....... ACTIVE  ✓
+  💙  black coffee > energy drinks .. ACTIVE  ✓
+  🩷  sour drinks = serotonin ........ ACTIVE  ✓
+
+[STATUS] all systems nominal
+```
 
 ---
 
-## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">stats.json</span>
+## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">stats.json</span>
 
 <div align="center">
 
@@ -96,17 +95,17 @@ const leaf = {
 
 ---
 
-## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">reach_me.sh</span>
+## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">reach_me.sh</span>
 
-<pre style="border-left: 4px solid #ed93b1; padding: 0.5em 1em; background: rgba(237,147,177,0.05); border-radius: 6px;">
-  <span style="color:#85b7eb">╭──────────────────────────────────────────╮</span>
-  <span style="color:#5DCAA5">│</span>                                          <span style="color:#ed93b1">│</span>
-  <span style="color:#5DCAA5">│</span>  <span style="color:#85b7eb">[WEB]</span>   <span style="color:#5DCAA5">ha-neko.github.io/aleaf</span>         <span style="color:#ed93b1">│</span>
-  <span style="color:#5DCAA5">│</span>  <span style="color:#5DCAA5">[MAIL]</span>  <span style="color:#9FE1CB">dms: open — feel free to say hi!</span><span style="color:#ed93b1">│</span>
-  <span style="color:#5DCAA5">│</span>  <span style="color:#ed93b1">[GAME]</span>  <span style="color:#9FE1CB">game dev chat / leafeon talk</span>    <span style="color:#ed93b1">│</span>
-  <span style="color:#5DCAA5">│</span>                                          <span style="color:#ed93b1">│</span>
-  <span style="color:#9FE1CB">╰──────────────────────────────────────────╯</span>
-</pre>
+```
+  ╭──────────────────────────────────────────╮
+  │                                          │
+  │  [WEB]   ha-neko.github.io/aleaf         │
+  │  [MAIL]  dms: open — feel free to say hi!│
+  │  [GAME]  game dev chat / leafeon talk    │
+  │                                          │
+  ╰──────────────────────────────────────────╯
+```
 
 <div align="center">
 
@@ -116,11 +115,11 @@ const leaf = {
 
 ---
 
-<pre>
+```
   ∧＿∧   ´ • ω • `
  ( 🍃 )    thanks for visiting!
   ╰─╯      come back anytime ~
-</pre>
+```
 
 <div align="center">
 
