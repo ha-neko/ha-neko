@@ -89,12 +89,12 @@ const leaf = {
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-neko&bg_color=000000&color=5DCAA5&line=5DCAA5&point=ed93b1&area=true&area_color=9FE1CB&hide_border=true&radius=12)](https://github.com/ha-neko)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-neko&bg_color=00000000&color=5DCAA5&line=5DCAA5&point=ed93b1&area=true&area_color=9FE1CB&hide_border=true&radius=12)](https://github.com/ha-neko)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ha-neko&show_icons=true&bg_color=000000&text_color=5DCAA5&icon_color=ed93b1&title_color=9FE1CB&hide_border=true&include_all_commits=true&count_private=true&ring_color=85b7eb" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neko&layout=compact&bg_color=000000&text_color=5DCAA5&title_color=9FE1CB&hide_border=true&card_width=300" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=ha-neko&show_icons=true&bg_color=00000000&text_color=5DCAA5&icon_color=ed93b1&title_color=9FE1CB&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neko&layout=compact&bg_color=00000000&text_color=5DCAA5&title_color=9FE1CB&hide_border=true&card_width=300" height="160" />
 
 </div>
 
