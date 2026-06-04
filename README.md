@@ -89,7 +89,7 @@ const leaf = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ha-neko&theme=transparent&hide_border=false&border_radius=12&ring=5DCAA5&fire=ed93b1&currStreakLabel=378add&sideLabels=378add&currStreakNum=1D9E75&sideNums=1D9E75&dates=6a8fa8&border=9FE1CB)](https://git.io/streak-stats)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-neko&bg_color=00000000&color=5DCAA5&line=5DCAA5&point=ed93b1&area=true&area_color=9FE1CB&hide_border=true&radius=12)](https://github.com/ha-neko)
 
 </div>
 
