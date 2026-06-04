@@ -115,15 +115,32 @@ const leaf = {
 
 ---
 
-```
+<pre>
   ∧＿∧   ´ • ω • `
  ( 🍃 )    thanks for visiting!
   ╰─╯      come back anytime ~
-```
+</pre>
 
 <div align="center">
 
 *— built with soft energy and too much coffee —*
+
+<br>
+
+<pre>
+        <span style="color:#85b7eb">.:+?S?+:.</span>
+      <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">###</span><span style="color:#85b7eb">S?+:.</span>
+    <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">#####</span><span style="color:#ed93b1">#</span><span style="color:#5DCAA5">#</span><span style="color:#85b7eb">S?+:.</span>
+   <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">#######</span><span style="color:#ed93b1">##</span><span style="color:#5DCAA5">#</span><span style="color:#85b7eb">S?+:.</span>
+  <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">#########</span><span style="color:#ed93b1">###</span><span style="color:#5DCAA5">#</span><span style="color:#85b7eb">S?+:.</span>
+ <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">###########</span><span style="color:#9FE1CB">#</span><span style="color:#ed93b1">###</span><span style="color:#5DCAA5">#</span><span style="color:#85b7eb">S?+:.</span>
+ <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">###########</span><span style="color:#9FE1CB">##</span><span style="color:#ed93b1">##</span><span style="color:#5DCAA5">#</span><span style="color:#85b7eb">S?+:.</span>
+  <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">#########</span><span style="color:#ed93b1">###</span><span style="color:#5DCAA5">#</span><span style="color:#85b7eb">S?+:.</span>
+   <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">#######</span><span style="color:#ed93b1">##</span><span style="color:#5DCAA5">#</span><span style="color:#85b7eb">S?+:.</span>
+    <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">#####</span><span style="color:#ed93b1">#</span><span style="color:#5DCAA5">#</span><span style="color:#85b7eb">S?+:.</span>
+      <span style="color:#85b7eb">.:+?S</span><span style="color:#5DCAA5">###</span><span style="color:#85b7eb">S?+:.</span>
+        <span style="color:#85b7eb">.:+?S?+:.</span>
+</pre>
 
 <br>
 
