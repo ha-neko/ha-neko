@@ -71,15 +71,16 @@ const leaf = {
 ## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">interests.log</span>
 
 <pre style="border-left: 4px solid #5DCAA5; padding: 0.5em 1em; background: rgba(93,202,165,0.05); border-radius: 6px;">
-<span style="color:#9FE1CB">[BOOT] initializing leaf.exe ...</span>
-
-  <span style="color:#5DCAA5">💚  leafeon supremacy ............ ACTIVE  ✓</span>
-  <span style="color:#85b7eb">💙  late night coding ............ ACTIVE  ✓</span>
-  <span style="color:#ed93b1">🩷  manga + quiet afternoons ...... ACTIVE  ✓</span>
-  <span style="color:#5DCAA5">💚  pixel art + game design ....... ACTIVE  ✓</span>
-  <span style="color:#85b7eb">💙  black coffee > energy drinks .. ACTIVE  ✓</span>
-  <span style="color:#ed93b1">🩷  sour drinks = serotonin ........ ACTIVE  ✓</span>
-
+<span style="color:#85b7eb">╔══════════════════════════════════════════╗</span>
+<span style="color:#85b7eb">║</span>  <span style="color:#9FE1CB">[BOOT] initializing leaf.exe ...</span>        <span style="color:#85b7eb">║</span>
+<span style="color:#85b7eb">╠══════════════════════════════════════════╣</span>
+<span style="color:#5DCAA5">║</span>  <span style="color:#5DCAA5">💚  leafeon supremacy ............ ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
+<span style="color:#5DCAA5">║</span>  <span style="color:#85b7eb">💙  late night coding ............ ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
+<span style="color:#5DCAA5">║</span>  <span style="color:#ed93b1">🩷  manga + quiet afternoons ...... ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
+<span style="color:#5DCAA5">║</span>  <span style="color:#5DCAA5">💚  pixel art + game design ....... ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
+<span style="color:#5DCAA5">║</span>  <span style="color:#85b7eb">💙  black coffee > energy drinks .. ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
+<span style="color:#5DCAA5">║</span>  <span style="color:#ed93b1">🩷  sour drinks = serotonin ........ ACTIVE  ✓</span>  <span style="color:#5DCAA5">║</span>
+<span style="color:#9FE1CB">╚══════════════════════════════════════════╝</span>
 <span style="color:#9FE1CB">[STATUS] all systems nominal</span>
 </pre>
 
@@ -98,12 +99,12 @@ const leaf = {
 ## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">reach_me.sh</span>
 
 <pre style="border-left: 4px solid #ed93b1; padding: 0.5em 1em; background: rgba(237,147,177,0.05); border-radius: 6px;">
-  <span style="color:#9FE1CB">╭──────────────────────────────────────────╮</span>
-  <span style="color:#9FE1CB">│</span>                                          <span style="color:#9FE1CB">│</span>
-  <span style="color:#9FE1CB">│</span>  <span style="color:#85b7eb">[WEB]</span>   <span style="color:#5DCAA5">ha-neko.github.io/aleaf</span>         <span style="color:#9FE1CB">│</span>
-  <span style="color:#9FE1CB">│</span>  <span style="color:#5DCAA5">[MAIL]</span>  <span style="color:#9FE1CB">dms: open — feel free to say hi!</span><span style="color:#9FE1CB">│</span>
-  <span style="color:#9FE1CB">│</span>  <span style="color:#ed93b1">[GAME]</span>  <span style="color:#9FE1CB">game dev chat / leafeon talk</span>    <span style="color:#9FE1CB">│</span>
-  <span style="color:#9FE1CB">│</span>                                          <span style="color:#9FE1CB">│</span>
+  <span style="color:#85b7eb">╭──────────────────────────────────────────╮</span>
+  <span style="color:#5DCAA5">│</span>                                          <span style="color:#ed93b1">│</span>
+  <span style="color:#5DCAA5">│</span>  <span style="color:#85b7eb">[WEB]</span>   <span style="color:#5DCAA5">ha-neko.github.io/aleaf</span>         <span style="color:#ed93b1">│</span>
+  <span style="color:#5DCAA5">│</span>  <span style="color:#5DCAA5">[MAIL]</span>  <span style="color:#9FE1CB">dms: open — feel free to say hi!</span><span style="color:#ed93b1">│</span>
+  <span style="color:#5DCAA5">│</span>  <span style="color:#ed93b1">[GAME]</span>  <span style="color:#9FE1CB">game dev chat / leafeon talk</span>    <span style="color:#ed93b1">│</span>
+  <span style="color:#5DCAA5">│</span>                                          <span style="color:#ed93b1">│</span>
   <span style="color:#9FE1CB">╰──────────────────────────────────────────╯</span>
 </pre>
 
