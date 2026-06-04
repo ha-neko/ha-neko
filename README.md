@@ -2,12 +2,12 @@
 <!--                     leaf's github — welcome to my garden              -->
 <!-- ──────────────────────────────────────────────────────────────────── -->
 
-```
+<pre>
   ∧＿∧
 （｡•ᴗ•｡）   hi there! i'm leaf ~
  ／  つ     welcome to my little corner of github
 （_（_）
-```
+</pre>
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ---
 
-## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">about.js</span>
+## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">about.js</span>
 
 ```js
 const leaf = {
@@ -52,7 +52,7 @@ const leaf = {
 
 ---
 
-## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">stack.sh</span>
+## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">stack.sh</span>
 
 <div align="center">
 
@@ -68,53 +68,49 @@ const leaf = {
 
 ---
 
-## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">interests.log</span>
+## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">interests.log</span>
 
-```
-[BOOT] initializing leaf.exe ...
+<pre>
+<span style="color:#9FE1CB">[BOOT] initializing leaf.exe ...</span>
 
-  💚  leafeon supremacy ............ ACTIVE  ✓
-  💙  late night coding ............ ACTIVE  ✓
-  🩷  manga + quiet afternoons ...... ACTIVE  ✓
-  💚  pixel art + game design ....... ACTIVE  ✓
-  💙  black coffee > energy drinks .. ACTIVE  ✓
-  🩷  sour drinks = serotonin ........ ACTIVE  ✓
+  <span style="color:#5DCAA5">💚  leafeon supremacy ............ ACTIVE  ✓</span>
+  <span style="color:#85b7eb">💙  late night coding ............ ACTIVE  ✓</span>
+  <span style="color:#ed93b1">🩷  manga + quiet afternoons ...... ACTIVE  ✓</span>
+  <span style="color:#5DCAA5">💚  pixel art + game design ....... ACTIVE  ✓</span>
+  <span style="color:#85b7eb">💙  black coffee > energy drinks .. ACTIVE  ✓</span>
+  <span style="color:#ed93b1">🩷  sour drinks = serotonin ........ ACTIVE  ✓</span>
 
-[STATUS] all systems nominal
-```
+<span style="color:#9FE1CB">[STATUS] all systems nominal</span>
+</pre>
 
 ---
 
-## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">stats.json</span>
+## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">stats.json</span>
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-neko&bg_color=00000000&color=5DCAA5&line=5DCAA5&point=ed93b1&area=true&area_color=9FE1CB&hide_border=true&radius=12)](https://github.com/ha-neko)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-neko&bg_color=000000&color=5DCAA5&line=5DCAA5&point=ed93b1&area=true&area_color=9FE1CB&hide_border=true&radius=12)](https://github.com/ha-neko)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ha-neko&show_icons=true&bg_color=00000000&text_color=5DCAA5&icon_color=ed93b1&title_color=9FE1CB&hide_border=true&include_all_commits=true&count_private=true&ring_color=85b7eb" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neko&layout=compact&bg_color=00000000&text_color=5DCAA5&title_color=9FE1CB&hide_border=true&card_width=300" height="160" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ha-neko&bg_color=00000000&stroke=5DCAA5&ring=9FE1CB&fire=ed93b1&currStreakNum=5DCAA5&sideNums=85b7eb&currStreakLabel=9FE1CB&sideLabels=9FE1CB&dates=5DCAA5&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=ha-neko&show_icons=true&bg_color=000000&text_color=5DCAA5&icon_color=ed93b1&title_color=9FE1CB&hide_border=true&include_all_commits=true&count_private=true&ring_color=85b7eb" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neko&layout=compact&bg_color=000000&text_color=5DCAA5&title_color=9FE1CB&hide_border=true&card_width=300" height="160" />
 
 </div>
 
 ---
 
-## <span style="color:#9FE1CB">~</span> <span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">reach_me.sh</span>
+## <span style="color:#9FE1CB">~</span><span style="color:#5DCAA5">leaf</span><span style="color:#85b7eb">/</span><span style="color:#ed93b1">reach_me.sh</span>
 
-```
+<pre>
   ╭──────────────────────────────────────────╮
   │                                          │
-  │  [WEB]   ha-neko.github.io/aleaf         │
-  │  [MAIL]  dms: open — feel free to say hi!│
-  │  [GAME]  game dev chat / leafeon talk    │
+  │  <span style="color:#85b7eb">[WEB]</span>   <span style="color:#5DCAA5">ha-neko.github.io/aleaf</span>         │
+  │  <span style="color:#5DCAA5">[MAIL]</span>  <span style="color:#9FE1CB">dms: open — feel free to say hi!</span>│
+  │  <span style="color:#ed93b1">[GAME]</span>  <span style="color:#9FE1CB">game dev chat / leafeon talk</span>    │
   │                                          │
   ╰──────────────────────────────────────────╯
-```
+</pre>
 
 <div align="center">
 
@@ -124,11 +120,11 @@ const leaf = {
 
 ---
 
-```
+<pre>
   ∧＿∧   ´ • ω • `
  ( 🍃 )    thanks for visiting!
   ╰─╯      come back anytime ~
-```
+</pre>
 
 <div align="center">
 
