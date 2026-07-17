@@ -4,7 +4,7 @@
 
 ```
   ∧＿∧
-（｡•ᴗ•｡）   hi there! i'm leaf ~
+（｡•ᴗ•｡）   hi there! i'm leaf ~ ⸙
  ／  つ     welcome to my little corner of github
 （_（_）
 ```
@@ -18,7 +18,7 @@
 <!-- AGE-BADGE-START -->
 ![](https://img.shields.io/badge/age-17-85b7eb?style=flat-square&labelColor=d0e8f5&color=85b7eb)
 <!-- AGE-BADGE-END -->
-![](https://img.shields.io/badge/pronouns-he%2Fhim-5DCAA5?style=flat-square&labelColor=d4f0e5&color=5DCAA5)
+![](https://img.shields.io/badge/pronouns-any-5DCAA5?style=flat-square&labelColor=d4f0e5&color=5DCAA5)
 ![](https://img.shields.io/badge/type-grass_coder-ed93b1?style=flat-square&labelColor=fbeaf2&color=ed93b1)
 ![](https://img.shields.io/badge/status-building_something-5DCAA5?style=flat-square&labelColor=f0faf6&color=5DCAA5)
 
@@ -31,8 +31,9 @@
 ```js
 const leaf = {
   name       : "leaf",
+  pronounce  : "ha-neko ⸙",
   age        : 17,
-  pronouns   : "he / him",
+  pronouns   : "any",
   class      : "Grass Type - Coder Hybrid",
   based_in   : "quiet room, glowing screen",
 
@@ -117,7 +118,7 @@ const leaf = {
 
 <pre>
   ∧＿∧   ´ • ω • `
- ( 🍃 )    thanks for visiting!
+ ( ⸙ )    thanks for visiting!
   ╰─╯      come back anytime ~
 </pre>
 
