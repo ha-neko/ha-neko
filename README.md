@@ -102,6 +102,7 @@ const leaf = {
   ╭──────────────────────────────────────────╮
   │                                          │
   │  [WEB]   ha-neko.github.io/aleaf         │
+  │  [DISC]  discord.gg/s6Yg7uyrjX           │
   │  [MAIL]  dms: open — feel free to say hi!│
   │  [GAME]  game dev chat / leafeon talk    │
   │                                          │
