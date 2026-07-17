@@ -11,14 +11,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%E2%B8%99;any+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%E2%B8%99;%E2%9A%9E%5E.+.%5E%E2%9A%9F+any+pronouns+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%E2%9C%A7%CB%96%C2%B0." alt="Typing SVG" />
 
 <br>
 
 <!-- AGE-BADGE-START -->
 ![](https://img.shields.io/badge/age-17-85b7eb?style=flat-square&labelColor=d0e8f5&color=85b7eb)
 <!-- AGE-BADGE-END -->
-![](https://img.shields.io/badge/pronouns-any-5DCAA5?style=flat-square&labelColor=d4f0e5&color=5DCAA5)
+![](https://img.shields.io/badge/pronouns-any_pronouns-5DCAA5?style=flat-square&labelColor=d4f0e5&color=5DCAA5)
 ![](https://img.shields.io/badge/type-grass_coder-ed93b1?style=flat-square&labelColor=fbeaf2&color=ed93b1)
 ![](https://img.shields.io/badge/status-building_something-5DCAA5?style=flat-square&labelColor=f0faf6&color=5DCAA5)
 
@@ -32,7 +32,7 @@
 const leaf = {
   name       : "leaf",
   age        : 17,
-  pronouns   : "any",
+  pronouns   : "any pronouns",
   class      : "Grass Type - Coder Hybrid",
   based_in   : "quiet room, glowing screen",
 
