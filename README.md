@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%F0%9F%8C%BF;he%2Fhim+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=26&pause=1000&color=5DCAA5&center=true&vCenter=true&width=520&lines=hi%2C+i'm+leaf+%F0%9F%8C%BF;any+%7C+junior+dev;grass+type+%2F+coder+hybrid;leafeon+enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
 <br>
 
