@@ -57,6 +57,7 @@ const leaf = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-eaf3de?style=for-the-badge&logo=python&logoColor=3b6d11)
+![React Native](https://img.shields.io/badge/React_Native-d4f0e5?style=for-the-badge&logo=react&logoColor=0F6E56)
 ![Laravel](https://img.shields.io/badge/Laravel-fbeaf2?style=for-the-badge&logo=laravel&logoColor=d4537e)
 ![Docker](https://img.shields.io/badge/Docker-d0e8f5?style=for-the-badge&logo=docker&logoColor=378add)
 ![Linux](https://img.shields.io/badge/Linux-d0e8f5?style=for-the-badge&logo=linux&logoColor=185FA5)
