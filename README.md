@@ -4,7 +4,7 @@
 
 ```
   ∧＿∧
-（｡•ᴗ•｡）   hi there! i'm leaf ~
+（｡•ᴗ•｡）   hi there! i'm leaf ~ ⸙
  ／  つ     welcome to my little corner of github
 （_（_）
 ```
@@ -117,7 +117,7 @@ const leaf = {
 
 <pre>
   ∧＿∧   ´ • ω • `
- ( 🍃 )    thanks for visiting!
+ ( ⸙ )    thanks for visiting!
   ╰─╯      come back anytime ~
 </pre>
 
